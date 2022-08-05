@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DemoActivity">
+
+
+    <TextView
+        android:id="@+id/test_title"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/xfs_dimen_120px"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/black"
+        android:text="BarChart3D"
+        android:layout_marginTop="@dimen/xfs_dimen_120px"
+        android:textSize="@dimen/xfs_font_36px" />
+
+    <com.astroboy.android.barchart3d.BarChartView
+        android:id="@+id/test_bcv"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/xfs_dimen_600px"
+        android:layout_below="@id/test_title"
+        android:layout_marginLeft="@dimen/xfs_dimen_60px"
+        android:layout_marginTop="@dimen/xfs_dimen_30px"
+        android:paddingBottom="@dimen/xfs_dimen_90px"
+        android:layout_centerHorizontal="true"
+        android:paddingLeft="@dimen/xfs_dimen_100px"
+        android:paddingTop="@dimen/xfs_dimen_30px" />
+
+</RelativeLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="gary">#777777</color>
+    <color name="gary_sec">#888888</color>
+    <color name="gary_tab">#E2DEDF</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <color name="actionbar_bg">#FF0099CC</color>
+    <color name="statusbar_bg">#030648</color>
+    <color name="statusbar_bg_transparent">#00000000</color>
+    <color name="slidingMenu_bg">#D6D8D5</color>
+    <color name="main_tab_text_light">#ff0000</color>
+    <color name="main_tab_text">#777777</color>
+    
+    <color name="colorPrimary">#00b4aa</color>
+    <color name="colorPrimaryDark">#00978f</color>
+    <color name="colorAccent">#FF6A6E</color>
+    <color name="color_red">#FF5722</color>
+    <color name="color_orange">#FF9800</color>
+    <color name="color_yellow">#FFC107</color>
+    <color name="color_green">#3FB830</color>
+    <color name="color_blue">#00BAED</color>
+    <color name="color_dark">#263238</color>
+    <color name="color_dark_light">#455A64</color>
+    <color name="color_light">#ECEFF1</color>
+    
+    <color name="ksw_md_ripple_normal">#1E000000</color>
+	<color name="ksw_md_ripple_checked">#33019285</color>
+
+	<color name="ksw_md_solid_shadow">#33000000</color>
+
+	<color name="ksw_md_solid_normal">#ECECEC</color>
+	<color name="ksw_md_solid_checked">#ECECEC</color>
+	<color name="ksw_md_solid_disable">#FFFFFF</color>
+	<color name="ksw_md_solid_checked_disable">#aaaaaa</color>
+
+    <color name="orange_yellow">#eeb043</color>
+    <color name="sky_blue">#3a7bd5</color>
+    <color name="blood_red">#df3c3d</color>
+    <color name="black">#000000</color>
+    <color name="navy_blue">#05005C</color>
+    <color name="transparent">#00000000</color>
+    <color name="silver_gray">#FFF1EFFC</color>
+    <color name="dark_grey">#FFEFEFF4</color>
+    <color name="light_grey">#FFE8E8E6</color>
+    <color name="c_333333">#333333</color>
+    <color name="c_FDDF62">#FFFDDF62</color>
+
+    <color name="t_light_grey">#AAE8E8E6</color>
+
+
+    <color name="c_F1F4Fb">#FFf1f4fb</color>
+
+</resources>
